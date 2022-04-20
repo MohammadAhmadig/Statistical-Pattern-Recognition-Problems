@@ -1,0 +1,28 @@
+total_test_accuracy =
+
+    0.8131
+
+
+class1_test_accuracy =
+
+    0.9876
+
+
+class0_test_accuracy(spam) =
+
+    0.3750
+
+
+total_accuracy_train =
+
+    0.8754
+
+
+class1_accuracy_train =
+
+    0.9959
+
+
+class0_accuracy_train(spam) =
+
+    0.5729

@@ -1,0 +1,13 @@
+>> script_heart
+
+bestAccuracy =
+
+    0.8268
+
+best result heart dataset
+
+ans =
+
+     1
+
+>> 

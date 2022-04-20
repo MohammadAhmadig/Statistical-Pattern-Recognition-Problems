@@ -1,0 +1,22 @@
+>> extra
+c:
+
+ans =
+
+    51
+
+sigma:
+
+ans =
+
+   351
+
+best accuracy:
+
+ans =
+
+   98.8000
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click here. 
+>> 

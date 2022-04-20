@@ -1,0 +1,11 @@
+bestAccuracy =
+
+    0.5820
+
+best result vehicle dataset
+
+ans =
+
+     1
+
+>> 

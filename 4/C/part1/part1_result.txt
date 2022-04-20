@@ -1,0 +1,21 @@
+c =
+
+     1
+
+
+accuracy =
+
+   98.0392
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click here. 
+accuarcy for c = 
+
+c =
+
+   100
+
+
+accuracy =
+
+   100

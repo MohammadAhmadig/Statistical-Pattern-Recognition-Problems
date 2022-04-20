@@ -1,0 +1,19 @@
+total accauracy for test data:
+
+ans =
+
+    0.9480
+
+accuracy for class spam(y=1)
+
+ans =
+
+    0.9091
+
+accuracy for class spam(y=0)
+
+ans =
+
+    0.9653
+
+>> 
